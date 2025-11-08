@@ -21,6 +21,6 @@ You are free to modify it so that it matches your needs.
 
 ## Installation
 ```bash
-cd path-to/LearnHero
+cd path-to/Simple-Grid-Env-with-DQN-training
 # Write the path to the downloaded and unziped folder
 pip3 install -r requirements.txt
