@@ -7,7 +7,7 @@ You are free to modify it so that it matches your needs.
 
 ## Features
  - You can save the model into a pth file so that you can run the same model again.
- - Load the model and save memory. (Run it with --load modelname.pth for using a specific model, --memorysave memory.memory)
+ - Load the model and save memory. (Run it with --load modelname.pth for using a specific model, --memorysave memory.memory for saving the memory)
 ## Libraries used
  - torch
  - pygame
